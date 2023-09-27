@@ -1,6 +1,6 @@
- /* ���� ��� ����� � user - �� 2 � ����� */
+ /* Стилі для блоків з user - по 2 в рядок */
 #user-list {
-    width: 100%; /* �������� 2% �� ������ �� ������� */
+    width: 100%; /* Залишити 2% на відступ між блоками */
     margin-right: 2%;
     background-color: #fff;
     padding: 10px;
@@ -9,7 +9,7 @@
     margin-bottom: 20px;
 }
 
-/* ���� ��� ������/�������� �� ����������� ��� user */
+/* Стилі для кнопок/посилань під інформацією про user  */
 .show-user {
     background-color: #007bff;
     color: #fff;
@@ -18,9 +18,9 @@
     border-radius: 5px;
 }
 
-/* ���� ��� ����� � user - �� 2 � ����� */
+/* Стилі для блоків з user - по 2 в рядок */
 .user-block {
-    width: 48%; /* �������� 2% �� ������ �� ������� */
+    width: 48%; /* Залишити 2% на відступ між блоками */
     margin-bottom: 20px;
     background-color: #fff;
     padding: 10px;
@@ -28,7 +28,7 @@
     border-radius: 5px;
 }
 
-/* ���� ��� ����� � ����������� ��� user ������ ������� */
+/* Стилі для блоку з інформацією про user зверху сторінки */
 #user-details {
     background-color: #fff;
     padding: 20px;
@@ -37,7 +37,7 @@
     text-align: center;
 }
 
-/* ���� ��� ������ �� ����������� ��� user */
+/* Стилі для кнопки під інформацією про user */
 #show-posts {
     display: block;
     margin: 20px auto;
@@ -81,7 +81,7 @@
 }
 
 .post-block {
-    width: 17%; /* �������� 1% �� ������ �� ������� */
+    width: 17%; /* Залишити 1% на відступ між блоками */
     margin-right: 1%;
     float: left;
     background-color: #fff;
@@ -92,9 +92,9 @@
     min-height: 150px;
 }
 
-/* ���� ��� ����� � ����������� - �� 4 � ��� */
+/* Стилі для блоків з коментарями - по 4 в ряд */
 .post-commentar {
-    width: 20%; /* �������� 1% �� ������ �� ������� */
+    width: 20%; /* Залишити 1% на відступ між блоками */
     margin-right: 1%;
     float: left;
     background-color: #fff;
