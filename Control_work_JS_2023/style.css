@@ -1,0 +1,106 @@
+ /* ���� ��� ����� � user - �� 2 � ����� */
+#user-list {
+    width: 100%; /* �������� 2% �� ������ �� ������� */
+    margin-right: 2%;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+/* ���� ��� ������/�������� �� ����������� ��� user */
+.show-user {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+/* ���� ��� ����� � user - �� 2 � ����� */
+.user-block {
+    width: 48%; /* �������� 2% �� ������ �� ������� */
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+}
+
+/* ���� ��� ����� � ����������� ��� user ������ ������� */
+#user-details {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    text-align: center;
+}
+
+/* ���� ��� ������ �� ����������� ��� user */
+#show-posts {
+    display: block;
+    margin: 20px auto;
+    text-align: center;
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.post-title{
+    min-height: 50px;
+}
+
+#user-posts {
+    width: 100%;
+    margin-right: 1%;
+    float: left;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+#post-details {
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    text-align: center;
+}
+
+.post-details-btn {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.post-block {
+    width: 17%; /* �������� 1% �� ������ �� ������� */
+    margin-right: 1%;
+    float: left;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    min-height: 150px;
+}
+
+/* ���� ��� ����� � ����������� - �� 4 � ��� */
+.post-commentar {
+    width: 20%; /* �������� 1% �� ������ �� ������� */
+    margin-right: 1%;
+    float: left;
+    background-color: #fff;
+    padding: 10px;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    margin-bottom: 20px;
+    min-height: 200px;
+}
