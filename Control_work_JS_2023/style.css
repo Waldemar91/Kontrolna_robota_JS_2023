@@ -20,6 +20,7 @@
 
 /* Стилі для блоків з user - по 2 в рядок */
 .user-block {
+    float: left;
     width: 48%; /* Залишити 2% на відступ між блоками */
     margin-bottom: 20px;
     background-color: #fff;
